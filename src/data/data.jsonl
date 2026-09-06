@@ -1,0 +1,20 @@
+{"type":"profile","name":"CRZTO3","subtitle":"Backend Developer • MQTT • AI • Infrastructure","prompt":"crzto3@portfolio ~ %","updated":"Aug 2026","terminal":[{"cmd":"whoami","output":["CRZTO3"]},{"cmd":"focus","output":["MQTT","Infrastructure","AI","Embedded"]},{"cmd":"status","output":["Building CrzHome"]}]}
+
+{"type":"now","label":"Building","value":"CrzHome"}
+{"type":"now","label":"Researching","value":"MQTT Scheduler"}
+{"type":"now","label":"Building","value":"CourseGEN"}
+{"type":"now","label":"Learning","value":"PyTorch & OpenCV"}
+
+{"type":"project","title":"CrzHome","desc":"Smart home platform powered by MQTT.","stack":["FastAPI","Redis","MQTT"],"details":["Платформа умного дома: устройства общаются по MQTT, состояние хранится в Redis, API на FastAPI."],"repo":null,"demo":null}
+{"type":"project","title":"CourseGEN","desc":"Automatic coursework generation.","stack":["Python","Typst"],"details":["Генератор курсовых работ: собирает структуру документа и рендерит готовый PDF через Typst."],"repo":null,"demo":null}
+{"type":"project","title":"Local AI Server","desc":"Local LLM infrastructure.","stack":["Docker","llama.cpp"],"details":["Self-hosted инфраструктура для локального инференса LLM: llama.cpp в Docker, свой слой маршрутизации запросов."],"repo":null,"demo":null}
+
+{"type":"lab","title":"MQTT Scheduler","desc":"Разработка систем на базе протокола MQTT.","date":"Aug 2026"}
+{"type":"lab","title":"PyTorch","desc":"Занимаюсь обучением/дообучением моделей ИИ.","date":"Jul 2026"}
+
+{"type":"cert","title":"Хакатон ДГТУ весна 2026","desc":"Разработка сервиса «Точка входа» для компании Ростелеком","pdf":"/Certificates/ByteMe.pdf","preview":"/previews/ByteMe.jpg","repo":"https://sourcecraft.dev/alexeyrnd28/hakaton-spring-2026","date":"Март 2026"}
+{"type":"cert","title":"Хакатон Umir Hack весна 2026","desc":"Разработка сервиса «Симулятор защиты данных» для компании Банк Центр инвест","pdf":"/Certificates/SHTEUD.pdf","preview":"/previews/SHTEUD.jpg","repo":"https://github.com/artem/SHTEUDTEAM","date":"Июнь 2026"}
+{"type":"cert","title":"Хакатон ДГТУ осень 2025","desc":"Разработка сервиса «Сервис DNS резолвинга» для компании Aeza","pdf":"/Certificates/Reaf.pdf","preview":"/previews/Reaf.jpg","repo":"https://github.com/crazy-tosser3/dnsure","date":"Ноябрь 2025"}
+{"type":"cert","title":"Разработка на Python","desc":"Университет «Синергия» — дополнительная общеобразовательная программа, 146 академических часов","pdf":"/Certificates/ItogovayaAttestatsiya.pdf","preview":"/previews/ItogovayaAttestatsiya.jpg","repo":null,"date":"2023"}
+
+{"type":"contact","heading":["LET'S BUILD","SOMETHING"],"availability":"Available for collaboration","text":"Интересуюсь MQTT-инфраструктурой, self-hosted AI, backend-разработкой, embedded-системами и инженерными проектами.","links":[{"label":"GitHub","href":"https://github.com/crazy-tosser3"},{"label":"Telegram","href":"https://t.me/R0ZZenTaLL"},{"label":"Email","href":"mailto:crazytosser3@gmail.com"}]}
